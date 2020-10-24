@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  font-family: 'Spartan', sans-serif;
+  position: relative;
+}
+
+._10k {
+  color: #502050;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0 0 0 0;
+  padding: 50px 100px 0 50px;
+  text-align: left;
+  width: 25%;
+}
+
+.descricao {
+  color: #937B92;
+  font-size: 0.9rem;
+  font-weight: 300;
+  line-height: 1.5;
+  margin: 10px 0 0 0;
+  padding-left: 50px;
+  text-align: left;
+  width: 32%;
+}
+
+/*******************************************************************************/
+
+.rated {
+  background-color: #F7F2F7;
+  color: #502050;
+  border-radius: 8px;
+  display: inline-block;
+  font-weight: 700;
+  padding: 15px 60px 15px 30px;
+
+}
+
+.a {
+  position: absolute;
+  right: 180px;
+  top: 80px;
+}
+
+.b {
+  position: absolute;
+  right: 80px;
+  top: 150px;
+}
+
+.c {
+  position: absolute;
+  right: 50px;
+  top: 220px;
+}
+
+
+/*******************************************************************************/
+
+.Colton {
+  background-color: #502050;
+  border-radius: 8px;
+  display: inline-block;
+  line-height: 1.6;
+  padding: 30px 100px 30px 30px;
+  position: absolute;
+  right: 900px;
+  top: 310px;
+  width: 20%;
+}
+
+
+.Irene {
+  background-color: #502050;
+  border-radius: 8px;
+  display: inline-block;
+  line-height: 1.6;
+  padding: 30px 100px 30px 30px;
+  position: absolute;
+  right: 475px;
+  top: 330px;
+  width: 20%;
+}
+
+.Anne {
+  background-color: #502050;
+  border-radius: 8px;
+  display: inline-block;
+  line-height: 1.6;
+  padding: 30px 100px 30px 30px;
+  position: absolute;
+  right: 50px;
+  top: 350px;
+  width: 20%;
+}
+
+
+/*******************************************************************************/
+
+.img {
+  border-radius: 100%;
+  float: left;
+  height: 50px;
+  padding: 10px 15px 20px 10px;
+}
+
+.name {
+  color: #F7F2F7;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.description {
+  color: #EE68A4;
+  margin-top: 0px;
+}
+
+.opinion {
+  display: inline-block;
+  font-size: 15px;
+  margin: 0 0 10px 0;
+  color: #FFFFFF;
+  padding-top: 20px;
+  width: 335px;
+}
+
+
+/*******************************************************************************/
+
+/*Última parte*/
+.attribution {
+  font-size: 11px;
+  position: absolute;
+  margin: 340px 500px;
+}
+.attribution a {
+  color: green;
+}
