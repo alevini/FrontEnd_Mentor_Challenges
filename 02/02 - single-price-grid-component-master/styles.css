@@ -1,0 +1,191 @@
+body {
+  font-family: 'Karla', sans-serif;
+  position: relative;
+  margin: 0;
+}
+
+
+
+/********************************TEXT COLORS************************************/
+
+.gray_text {
+  color: #98A6BD;
+}
+
+.white_text {
+  color: #E5EFF5;
+}
+
+
+
+
+
+/*******************************BLOCO BRANCO************************************/
+.white_block {
+  background-color: #FFFFFF;
+  height: 320px;
+  margin-left: 100px;
+  margin-top: 50px;
+  width: auto;
+
+}
+
+.join_text {
+  font-size: 3.1rem;
+  color: #2AB2AF;
+  font-weight: 700;
+}
+
+.day_30 {
+  color: #C0DF34;
+  display: inline-block;
+  font-weight: 700;
+  font-size: 2.3rem;
+  margin: 0;
+  width: 100%;
+}
+
+.gain_text {
+  font-size: 1.9rem;
+  width: 85%;
+  line-height: 1.5;
+}
+
+
+
+/*****************************BLOCO VERDE CLARO*********************************/
+
+.light_green_block {
+  background-color: #66DBD9;
+  height: 285px;
+  padding-left: 0px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  position: absolute;
+  right: 0;
+  width: 50%;
+}
+
+.tutorial_text {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.4;
+  width: 40%;
+  margin: 30px 0 0 100px;
+}
+
+.coding_text {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.4;
+  margin: 0 0 0 100px;
+}
+
+.access_text {
+font-size: 1.2rem;
+font-weight: 400;
+line-height: 1.4;
+margin: 0 0 0 100px;
+}
+
+.community_text {
+font-size: 1.2rem;
+font-weight: 400;
+line-height: 1.4;
+margin: 0 0 0 100px;
+}
+
+.flashcard_text {
+font-size: 1.2rem;
+font-weight: 400;
+line-height: 1.4;
+margin: 0 0 0 100px;
+}
+
+.new_text {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.4;
+  margin: 0 0 0 100px;
+}
+
+.why_text {
+  display: inline-block;
+  font-size: 2rem;
+  padding-top: 10px;
+  margin: 0 0 0 100px;
+}
+
+
+
+/***************************BLOCO VERDE ESCURO**********************************/
+.dark_green_block {
+background-color: #2AB2AF;
+height: 285px;
+padding-left: 50px;
+padding-top: 50px;
+padding-bottom: 20px;
+position: absolute;
+width: 50%;
+}
+
+.month_text {
+  display: inline-block;
+  font-size: 2rem;
+  padding-top: 10px;
+  margin: 0 0 0 40px;
+}
+
+
+.dollar_text {
+  font-size: 3.3rem;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.per_month {
+  font-weight: 400;
+  position: absolute;
+  right: 390px;
+  bottom: 170px;
+}
+
+
+.full_text {
+  display: inline-block;
+  position: absolute;
+  bottom: 120px;
+  margin-left: 40px;
+}
+
+
+.BUTTON_FOW {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   height: 16px;
+   color: #FFFFFF;
+   width: 327px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 25px;
+   background-color: #C0DF34;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 30px;
+   margin-left: 40px;
+
+   -webkit-box-shadow: 1px 1px 20px 0 #98A6BD;
+   -moz-box-shadow: 1px 1px 20px 0 #98A6BD;
+   box-shadow: 1px 1px 10px 0 #000000;
+}
+
+
+
+/*******************************************************************************/
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
